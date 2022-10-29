@@ -15,3 +15,5 @@
 蓝奏云下载,提取码:upizpp
 
 [Love2d 第三方API文档](https://love.zhao321.com/)
+[love2dCS](https://gitee.com/endlesstravel/love2dCS)
+> 赋予C#语言使用love2d引擎的能力，LOVE 官网 https://love2d.org/
